@@ -1,3 +1,6 @@
+webcamp = :プログラミング学習
+puts webcamp
+
 # 文字列オブジェクト
 dog1 = "犬"
 dog2 = "犬"
